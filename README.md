@@ -1,0 +1,2 @@
+# blogsquid
+ delsu v2
